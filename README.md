@@ -2,7 +2,7 @@
 ## Project Overview
 CareerCarve is a web application that allows students to book 1x1 sessions with mentors based on the availability and preferences of both parties. The platform handles scheduling, mentor-student matching based on areas of interest, and payment processing.
 
-##Features
+## Features
 Mentor Matching: Students can browse and book sessions with mentors based on their areas of interest.
 Scheduling: Manage bookings and schedules for both students and mentors.
 Payment Processing: Simple payment calculation based on session duration and mentor status (premium or regular).
