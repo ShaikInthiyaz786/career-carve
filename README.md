@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/career-carve.git
+git clone https://github.com/ShaikInthiyaz786/career-carve.git
 cd career-carve
 #### Backend Setup:
 
