@@ -7,10 +7,9 @@ Mentor Matching: Students can browse and book sessions with mentors based on the
 Scheduling: Manage bookings and schedules for both students and mentors.
 Payment Processing: Simple payment calculation based on session duration and mentor status (premium or regular).
 ## Tech Stack
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: SQLite
-Deployment: (Specify the platform if deployed)
+Frontend: React.js.
+Backend: Node.js, Express.js.
+Database: SQLite.
 ## Getting Started
 ### Prerequisites
 Node.js (v14+)
