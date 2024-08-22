@@ -76,14 +76,17 @@ mentor_id
 session_time
 is_paid
 ## API Endpoints
-Mentors:
+### Mentors:
 GET /mentors: Fetch all mentors.
-Bookings:
+### Bookings:
 POST /bookings: Create a new booking.
+
 GET /bookings: Retrieve bookings for a student or mentor.
 ## Frontend Components
 BookingForm: Allows students to select a mentor, choose a duration, and specify their area of interest.
+
 MentorList: Displays available mentors based on the student's area of interest.
+
 PaymentPage: Handles payment processing after a session is booked.
 ## Testing
 Manual Testing: Verify the booking process, mentor matching, and payment calculations.
@@ -93,5 +96,7 @@ Deploy the application to a web service that supports Node.js (Vercel). Ensure t
 
 ## Future Improvements
 Automated Testing: Implement unit and integration tests.
+
 Enhanced Payment Integration: Integrate with a payment gateway like Stripe or PayPal.
+
 Notifications: Add email or SMS notifications for bookings.
